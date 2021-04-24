@@ -4,7 +4,7 @@ Building an automatic co-located coollaboration analytics tool to analyze group 
 
 ### Citation
 
-Pankaj Chejara,, Luis P. Prieto, Adolfo Ruiz-Calleja, María Jesús Rodríguez-Triana,Shashi Kant Shankarand Reet Kasepalu. EFAR-MMLA: An Evaluation Framework to Assessand Report Machine Learning Model Generalizabilityin MMLA. Sensors, 2021 (In Press).
+
 
 ## The MIT Licence
 
