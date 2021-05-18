@@ -3,8 +3,7 @@ Building an automatic co-located collaboration analytics tool to analyze group s
 
 
 ### Citation
-Will be updated in a 1-2 weeks
-
+Praharaj, S.; Scheffel, M.; Schmitz, M.; Specht, M.; and Drachsler, H. (2021). Towards Automatic Collaboration Analytics for Group Speech Data Using Learning Analytics. Sensors 2021, 21, 3156. https://doi.org/10.3390/s21093156
 
 ## The MIT Licence
 
