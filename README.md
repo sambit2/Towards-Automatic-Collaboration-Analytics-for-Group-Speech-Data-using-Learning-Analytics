@@ -1,5 +1,5 @@
 # Towards Automatic Collaboration Analytics for Group Speech Data using Learning Analytics
-Building an automatic co-located collaboration analytics tool to analyze group speech (*WILL BE UPDATED BY 30th JULY 2021 WITH THE CODE FILES AND INSTRUCTIONS TO USE THEM*)
+Building an automatic co-located collaboration analytics tool to analyze group speech (*WILL BE UPDATED BY 31st AUG 2021 WITH THE CODE FILES AND INSTRUCTIONS TO USE THEM*)
 
 
 ### Citation
