@@ -1,6 +1,6 @@
 # Towards Automatic Collaboration Analytics for Group Speech Data using Learning Analytics
 Building an automatic co-located collaboration analytics tool to analyze group speech (CODE HAS BEEN UPLOADED! WILL COMPLETE the INSTRUCTIONS AND BLOG BY 15th SEPT 2021!!)
-
+The article can be found using the DOI link in the citation and is completely **OPEN ACCESS**!
 
 ### Citation
 Praharaj, S., Scheffel, M., Schmitz, M., Specht, M., & Drachsler, H. (2021). Towards automatic collaboration analytics for group speech data using learning analytics. *Sensors*, 21(9), 3156. https://doi.org/10.3390/s21093156
